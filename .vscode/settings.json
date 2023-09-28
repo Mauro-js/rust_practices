@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./funciones_4/Cargo.toml",
+        "./tipo_de_datos_3/Cargo.toml",
+        "./tipo_de_datos_3/Cargo.toml",
+        "./tipo_de_datos_3/Cargo.toml"
+    ]
+}
